@@ -1,7 +1,3 @@
-#### Video Tutorial for this project
-https://youtu.be/SQ4A7Q6_md8
-<br><br>
-
 #### Packages
 
 Django                5.2.4<br>
